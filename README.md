@@ -238,6 +238,8 @@ This tool is for **informational and educational purposes only**. It does not co
 
 ## 📸 Screenshots
 
+> *(Added screenshots after running the app)*
+
 ### Landing Page
 ![Landing Page](screenshots/01-landing.png)
 

@@ -15,11 +15,9 @@
 
 ## 🎯 Project Overview
 
-Built as part of the **Infrix AI & Automation Internship (Week-4 Task)**:
+Devolped as part of the **Infrix AI & Automation Internship (Week-4 Task)**:
 
-> *"Pick any document type, build a Streamlit app that uploads it and uses Ollama to analyze and answer questions about it."*
-
-This tool addresses a real-world problem: medical reports are full of complex terminology, abnormal flags, and technical values that most patients cannot understand. This analyzer bridges that gap using a locally-running LLM.
+Medical reports are filled with complex terminology, abnormal value flags, and technical jargon that most patients struggle to interpret. This tool addresses that real-world gap — providing instant, structured AI analysis of any medical document, explaining results in plain English, and allowing patients to ask follow-up questions about their own reports. All processing happens locally via Ollama, ensuring complete data privacy with zero API costs.
 
 ---
 
